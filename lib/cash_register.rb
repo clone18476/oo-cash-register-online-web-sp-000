@@ -39,7 +39,7 @@ class CashRegister
       return @total
     else 
     @total -= @price
-    
+    end 
   end
 
 end
